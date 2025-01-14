@@ -60,7 +60,7 @@ tld = '.fr'           # Remplacez par le domaine de premier niveau du site
 ### Étape 3 : Exécuter le script
 Lancez le fichier `.ipynb` correspondant dans Jupyter Notebook. Une fois l'exécution terminée, un fichier CSV contenant les données extraites sera généré.
 
-###Étape 4 : Concaténer les fichiers CSV
+### Étape 4 : Concaténer les fichiers CSV
 
 Une fois tous les fichiers CSV générés, lancez le script `concat.py` pour les concaténer en un seul fichier CSV global. Cela créera un fichier résumant toutes les données extraites dans un format unique et uniforme.
 
