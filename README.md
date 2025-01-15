@@ -66,6 +66,11 @@ Une fois tous les fichiers CSV générés, lancez le script `concat.py` pour les
 
 ---
 
+## Analyse des données
+Les données collectées peuvent être analysées via Looker Studio, une plateforme de visualisation puissante. Un exemple d'analyse est disponible à ce lien : [Looker Studio Report](https://lookerstudio.google.com/reporting/99c6f75e-0801-42d7-bed2-53963365c32e)
+
+---
+
 ## Limitations
 
 - Les scripts fonctionnent uniquement avec des sites utilisant WordPress.
